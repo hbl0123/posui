@@ -1,0 +1,7 @@
+﻿  data_type.cpp
+G:\C++\01.C++书写Helloworld\03.变量和数据类型\data_type.cpp(73,18): warning C4305: “初始化”: 从“int”到“bool”截断
+G:\C++\01.C++书写Helloworld\03.变量和数据类型\data_type.cpp(79,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\C++\01.C++书写Helloworld\03.变量和数据类型\data_type.cpp(86,32): warning C4305: “初始化”: 从“int”到“unsigned short”截断
+G:\C++\01.C++书写Helloworld\03.变量和数据类型\data_type.cpp(86,27): warning C4309: “初始化”: 截断常量值
+G:\C++\01.C++书写Helloworld\03.变量和数据类型\data_type.cpp(88,11): warning C4309: “=”: 截断常量值
+  03.变量和数据类型.vcxproj -> G:\C++\01.C++书写Helloworld\Debug\03.变量和数据类型.exe
